@@ -1,5 +1,3 @@
-from re import I
-
 n=int(input("Enter limit of nos:"))
 sum=0
 i=0
